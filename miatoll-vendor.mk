@@ -1182,9 +1182,24 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/33_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/33_version_update_ecc_table.sql \
     vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/34_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/34_version_update_ecc_table.sql \
     vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/35_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/35_version_update_ecc_table.sql \
-    vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/36_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/36_version_update_ecc_table.sql \
-    vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/37_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/37_version_update_ecc_table.sql \
     vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/4_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/4_version_update_ecc_table.sql \
+    vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/51_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/51_version_update_ecc_table.sql \
+    vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/52_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/52_version_update_ecc_table.sql \
+    vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/53_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/53_version_update_ecc_table.sql \
+    vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/54_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/54_version_update_ecc_table.sql \
+    vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/55_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/55_version_update_ecc_table.sql \
+    vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/56_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/56_version_update_ecc_table.sql \
+    vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/57_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/57_version_update_ecc_table.sql \
+    vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/58_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/58_version_update_ecc_table.sql \
+    vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/59_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/59_version_update_ecc_table.sql \
+    vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/61_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/61_version_update_ecc_table.sql \
+    vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/62_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/62_version_update_ecc_table.sql \
+    vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/63_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/63_version_update_ecc_table.sql \
+    vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/64_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/64_version_update_ecc_table.sql \
+    vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/65_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/65_version_update_ecc_table.sql \
+    vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/66_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/66_version_update_ecc_table.sql \
+    vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/67_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/67_version_update_ecc_table.sql \
+    vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/68_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/68_version_update_ecc_table.sql \
     vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/5_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/5_version_update_ecc_table.sql \
     vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/6_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/6_version_update_ecc_table.sql \
     vendor/xiaomi/miatoll/proprietary/vendor/radio/qcril_database/upgrade/7_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/7_version_update_ecc_table.sql \
