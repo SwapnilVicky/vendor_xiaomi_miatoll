@@ -16,6 +16,3 @@
 
 PRODUCT_SOONG_NAMESPACES += \
     vendor/xiaomi/miatoll
-
-PRODUCT_COPY_FILES += \
-    vendor/xiaomi/miatoll/proprietary/vendor/lib/libpn553_fw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpn553_fw.so \
